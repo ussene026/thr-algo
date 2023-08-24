@@ -1,1 +1,1 @@
-# thr-algo
+# ThR Algorithm
